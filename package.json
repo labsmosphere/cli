@@ -1,0 +1,19 @@
+{
+  "name": "@labsmosphere/cli",
+  "version": "1.0.0",
+  "description": "Code generator for default repository setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labsmosphere/cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/labsmosphere/cli/issues"
+  },
+  "homepage": "https://github.com/labsmosphere/cli#readme"
+}
